@@ -1,0 +1,1 @@
+On Demand car wash company will enable customers to create an account via company's webpage, add details and opt for services in present or future the account and make payment for paying in company’s self-service car wash. Main purpose of on Demand car wash company is to offer additional option for clients to avail service anywhere. 
